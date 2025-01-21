@@ -16,5 +16,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-QuisDives.pdf)
-* [ePub](epub/epub-QuisDives.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-QuisDives.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-QuisDives.epub)
