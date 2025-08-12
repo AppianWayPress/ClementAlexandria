@@ -16,8 +16,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-QuisDives.pdf)
-* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-QuisDives.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-QuisDives.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-QuisDives.epub)
 
 ### Excerpts from Theodotus (Excerpta ex Theodotus)
 
@@ -28,8 +28,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-Excerpta.pdf)
-* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Excerpta.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Excerpta.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Excerpta.epub)
 
 ### Stromata
 
@@ -37,7 +37,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Stromata.epub)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Stromata.epub)
 
 ### Protrepticus
 
@@ -45,7 +45,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Protrepticus.epub)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Protrepticus.epub)
 
 ### Paedagogus
 
@@ -53,4 +53,4 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Paedagogus.epub)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Paedagogus.epub)
