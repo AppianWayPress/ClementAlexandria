@@ -30,3 +30,27 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 * [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-Excerpta.pdf)
 * [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Excerpta.epub)
+
+### Stromata
+
+* Translated from: _Patrologia Graeca_ volumes 8 and 9.
+
+#### Files
+
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Stromata.epub)
+
+### Protrepticus
+
+* Translated from: _Patrologia Graeca_ volume 8.
+
+#### Files
+
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Protrepticus.epub)
+
+### Paedagogus
+
+* Translated from: _Patrologia Graeca_ volume 8.
+
+#### Files
+
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-Paedagogus.epub)
