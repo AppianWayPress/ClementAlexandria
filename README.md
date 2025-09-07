@@ -37,6 +37,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Stromata.pdf)
 * [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Stromata.epub)
 
 ### Protrepticus
@@ -45,6 +46,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Protrepticus.pdf)
 * [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Protrepticus.epub)
 
 ### Paedagogus
@@ -53,4 +55,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Paedagogus.pdf)
 * [ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Paedagogus.epub)
